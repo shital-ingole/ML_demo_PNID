@@ -1,0 +1,11 @@
+Index,id,center_x,center_y,radius,crop_path,ocr_raw,ocr_norm,prefix,loop,suffix,full_tag,tag_type
+14,44,80,265,39,output/circles_output_pnid8\pnid_cropped_upscaled\crops\circle_44.png,PI 301,PI 301,PI,301,,PI-301,instrument
+9,25,591,505,88,output/circles_output_pnid8\pnid_cropped_upscaled\crops\circle_25.png,PI 1234,PI 1234,PI,1234,,PI-1234,instrument
+1,4,391,327,95,output/circles_output_pnid8\pnid_cropped_upscaled\crops\circle_4.png,PI 101,PI 101,PI,101,,PI-101,instrument
+8,24,589,128,99,output/circles_output_pnid8\pnid_cropped_upscaled\crops\circle_24.png,PT 001,PT 001,PT,001,,PT-001,instrument
+12,30,1178,797,100,output/circles_output_pnid8\pnid_cropped_upscaled\crops\circle_30.png,LT 008,LT 008,LT,008,,LT-008,instrument
+5,17,747,624,105,output/circles_output_pnid8\pnid_cropped_upscaled\crops\circle_17.png,PI 003,PI 003,PI,003,,PI-003,instrument
+0,3,694,328,106,output/circles_output_pnid8\pnid_cropped_upscaled\crops\circle_3.png,FI 002,FI 002,FI,002,,FI-002,instrument
+13,32,810,943,107,output/circles_output_pnid8\pnid_cropped_upscaled\crops\circle_32.png,PI 106,PI 106,PI,106,,PI-106,instrument
+10,26,309,331,112,output/circles_output_pnid8\pnid_cropped_upscaled\crops\circle_26.png,PI 104,PI 104,PI,104,,PI-104,instrument
+7,23,1150,705,112,output/circles_output_pnid8\pnid_cropped_upscaled\crops\circle_23.png,LT 007,LT 007,LT,007,,LT-007,instrument
